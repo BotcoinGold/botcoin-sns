@@ -40,6 +40,7 @@ fallback_controller_principals:
 
 dapp_canisters:
   - dl4zt-iqaaa-aaaag-auaxq-cai
+  - xcqyg-2yaaa-aaaad-abv7a-cai
 
 Token:
   name: BOTCOIN
@@ -140,4 +141,5 @@ Swap:
   
   duration: 7 days
   neurons_fund_participation: false
+
 
