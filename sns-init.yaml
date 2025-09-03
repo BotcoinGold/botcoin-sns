@@ -134,12 +134,13 @@ Swap:
     - ZW  # Zimbabwe
 
   VestingSchedule:
-    events: 6                 # 6 neurons
-    interval: 3 months        # 0, 3, 6, 9, 12, 15 months
+    events: 5                 # 6 neurons
+    interval: 6 months        # 0, 6, 12, 18, 24 months
 
   # start_time: 12:00 UTC    
   
   duration: 7 days
   neurons_fund_participation: false
+
 
 
